@@ -1,6 +1,7 @@
 package com.rhyun.function;
 
 public class Two {
+	// 주석을 추가했습니다.
 	
 	String member;
 	
